@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://maxwin188.getprooph.org/sitemap.xml
+Sitemap : http://boswin138.id.php-map.org/sitemap.xml
